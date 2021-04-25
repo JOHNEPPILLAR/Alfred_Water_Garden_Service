@@ -3,7 +3,7 @@ name: SECURITY_SCAN
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   security:
